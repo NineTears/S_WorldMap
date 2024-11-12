@@ -1,0 +1,16 @@
+## Interface: 11200
+## Title: S_WorldMap
+## Notes: a simple function worldmap.shift+mousewheel to Change transparency,ctrl+mousewheel to change size.
+## Title-zhCN:S_WorldMap 世界地图增强
+## Notes-zhCN:设置：shift+鼠标滚轮调整世界地图的透明度|Nclrl+鼠标滚轮调整世界地图的大小
+## Author: 1.12 modify by 狗血编剧男
+## Version: 1.0.0
+## OptionalDeps: !Libs
+## Dependencies: !Libs
+## SavedVariables: MozzFullWorldMap
+
+S_WorldMap.lua
+Modules\blips.lua
+Modules\MapPins.lua
+Modules\ZoneInfo.lua
+Modules\MapOverlay.lua
